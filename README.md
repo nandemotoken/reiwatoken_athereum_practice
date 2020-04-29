@@ -3,7 +3,7 @@ authereumの使い方を練習することができるページです
 
 # 操作方法
 練習用ページにアクセスする  
-https://nandemotoken.github.io/authereum_practice_page  
+<a href="https://nandemotoken.github.io/authereum_practice_page" target="blank">https://nandemotoken.github.io/authereum_practice_page</a>  
 開発者コンソールを出す(Chromeの場合：F12キー)  
 Console部分にAuthereum操作コマンドを入力する  
 
