@@ -1,6 +1,5 @@
 # authereum練習用ページ
 authereumの使い方を練習することができるページです  
-https://nandemotoken.github.io/authereum_practice_page
 
 # 操作方法
 練習用ページにアクセスする  
@@ -9,8 +8,7 @@ https://nandemotoken.github.io/authereum_practice_page
 Console部分にAuthereum操作コマンドを入力する  
 
 # 操作コマンド
-https://docs.authereum.com/web3-provider  
-上記サイトのExamplesを参照  
+<a href="https://docs.authereum.com/web3-provider" target="blank">公式サイトのExamplesを参照</a>  
 (import処理は開発者コンソール上で実施済)
 
 ### 例：Logging in  
