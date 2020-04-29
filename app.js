@@ -1,3 +1,0 @@
-import Authereum from 'authereum'
-
-
