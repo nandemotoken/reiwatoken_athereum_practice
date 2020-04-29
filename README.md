@@ -11,7 +11,7 @@ Console部分にAuthereum操作コマンドを入力する
 # 操作コマンド
 https://docs.authereum.com/web3-provider  
 上記サイトのExamplesを参照  
-(import処理はWebページ側で実施済みです)
+(import処理は開発者コンソール上では実施)
 
 ### 例：Logging in  
 const authereum = new Authereum('mainnet')  
