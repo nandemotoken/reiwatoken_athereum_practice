@@ -8,7 +8,7 @@ authereumの使い方を練習することができるページです
 Console部分にAuthereum操作コマンドを入力する  
 
 # 操作コマンド
-<a href="https://docs.authereum.com/web3-provider" target="blank">公式サイトのExamplesを参照</a>  
+<a href="https://docs.authereum.com/web3-provider" target="_blank">公式サイトのExamplesを参照</a>  
 (ただしimport処理は開発者webページ側で実施済)
 
 ### 例：Logging in  
