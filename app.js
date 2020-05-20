@@ -14,7 +14,7 @@ const ABI = [
 	}
 ]
 
-document.onload = async () => {
+window.onload = async () => {
     const authereum = await new Authereum('mainnet')
     const provider = await authereum.getProvider()
     const web3 = await new Web3(provider) 
