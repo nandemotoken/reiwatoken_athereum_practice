@@ -20,7 +20,7 @@ window.onload = async () => {
     const web3 = await new Web3(provider) 
     const faucet = await new web3.eth.Contract(ABI , faucetAddress)
     const myaddress = await authereum.getAccountAddress()
-    ans = prompt("get reiwatoken?")
+    ans = confirm("get reiwatoken?")
     if (ans) {
         faucet.methods.faucetToken().send({from: myaddress})
     }
